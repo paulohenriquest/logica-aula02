@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.box {
+    margin:0 auto;
+    text-align: center;
+    background-color: white;
+    color: white;
+    width: 200px;
+    text-align: center;
+    text-decoration: rgb(236, 225, 221);
+    text-transform: uppercase;
+    border-radius: 40px;
+    margin-top: 0%;
+    background-color: rgb(224, 75, 75);
+    border-radius: 10px;
+    margin-top: 12%;
+}
+
+body {
+    background: url('https://i.pinimg.com/originals/18/66/c1/1866c184a7d1b635ad8c1c6268d86822.jpg');
+}
+
+
+.campo {
+    margin-bottom: 20px;
+}
+
+
+
+
